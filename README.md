@@ -1,5 +1,5 @@
-<h2 align="center">Hi there 👋, I'm Khurshid</h2>
-<p align="center">A passionate Software Developer from India.</p>
+<h2>Hi there 👋, I'm Khurshid</h2>
+<p>A passionate Software Developer from India.</p>
 
 <h3>About Me</h3>
 
@@ -44,4 +44,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alikhere&layout=compact&theme=radical">
 </p>
-
+<p>🚀 Explore my projects below and share your thoughts—I'd love to hear your feedback!</p>
+ 
