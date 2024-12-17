@@ -1,6 +1,8 @@
 <h2>Hi there 👋, I'm Khurshid</h2>
 <p>A passionate <strong>Software Developer</strong> from India.</p>
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 <h3>About Me</h3>
 
 <ul>
