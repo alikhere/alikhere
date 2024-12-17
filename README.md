@@ -15,7 +15,7 @@
 <p>Always up for connecting and collaborating—let's create something incredible together!</p>
 <p>
   <a href="mailto:alikhurshid.dev@gmail.com" target="_blank"><img height="25" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="[https://linkedin.com/in/ali-khurshid-60904426b/](https://www.linkedin.com/in/md-khurshid-alam-60904426b/)" target="_blank"><img height="25" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/md-khurshid-alam-60904426b/" target="_blank"><img height="25" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
   <a href="https://twitter.com/alikhurshidhere" target="_blank"><img height="25" src="https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white"></a>
   <a href="https://leetcode.com/u/alikhere/" target="_blank"><img height="25" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"></a>
 </p>
