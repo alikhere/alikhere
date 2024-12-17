@@ -1,4 +1,4 @@
-<h2>Hi there 👋, I'm Khurshid</h2>
+<h2 align="center" >Hi there 👋, I'm Khurshid</h2>
 <p>A passionate Software Developer from India.</p>
 
 <h3>About Me</h3>
@@ -15,7 +15,7 @@
 <p>Always up for connecting and collaborating—let's create something incredible together!</p>
 <p>
   <a href="mailto:alikhurshid.dev@gmail.com" target="_blank"><img height="25" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/ali-khurshid-60904426b/" target="_blank"><img height="25" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+  <a href="[https://linkedin.com/in/ali-khurshid-60904426b/](https://www.linkedin.com/in/md-khurshid-alam-60904426b/)" target="_blank"><img height="25" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
   <a href="https://twitter.com/alikhurshidhere" target="_blank"><img height="25" src="https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white"></a>
   <a href="https://leetcode.com/u/alikhere/" target="_blank"><img height="25" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"></a>
 </p>
@@ -31,7 +31,6 @@
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
 </p>
-<p>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
@@ -40,7 +39,7 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
 </p>
-
+<br/>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alikhere&layout=compact&theme=radical">
 </p>
