@@ -1,7 +1,7 @@
 <h2>Hi there 👋, I'm Khurshid</h2>
 <p>A passionate <strong>Software Developer</strong> from India.</p>
 
-<img align="right" src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="400" height="250" />
+<img align="right" src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="250" height="150" />
 <h3>About Me</h3>
 
 <ul>
