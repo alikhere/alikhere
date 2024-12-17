@@ -1,14 +1,14 @@
 <h2>Hi there 👋, I'm Khurshid</h2>
-<p>A passionate Software Developer from India.</p>
+<p>A passionate <strong>Software Developer</strong> from India.</p>
 
 <h3>About Me</h3>
 
 <ul>
-  <li>🔭 I’m currently looking for <strong>Internship/Fulltime Role</strong>.</li>
-  <li>🌱 I’m diving into <strong>React.js, Node.js, Express, and Next.js.</li>
-  <li>👯 I enjoy collaborating on <strong>projects that transform creative ideas into impactful solutions</strong>.</li>
-  <li>💬 Ask me about <strong>DSA and Movies</strong>.</li>
-  <li>📫 How to reach me: Catch me on Twitter—my DMs are open!</li>
+  <li>🔭 I’m currently looking for <span style="color: #FFA500;"> Internship/Fulltime Role</span>.</li>
+  <li>🌱 I’m diving into <span style="color: #FFA500;">React.js, Node.js, Express, and Next.js</span>.</li>
+  <li>👯 I enjoy collaborating on <span style="color: #FFA500;">projects that transform creative ideas into impactful solutions</span>.</li>
+  <li>💬 Ask me about <span style="color: #FFA500;">DSA and Movies</span>.</li>
+  <li>📫 How to reach me: Catch me on <span style="color: #FFA500;">Twitter</span>—my DMs are open!</li>
 </ul>
 
 <h3>Let's Connect</h3>
@@ -22,7 +22,7 @@
 
 <h3>Languages and Tools</h3>
 <p>
-   <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
 </p>
+<p>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
@@ -43,5 +44,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alikhere&layout=compact&theme=radical">
 </p>
-<p>🔍 Check out my projects below and share your thoughts—I'd love to hear your feedback!</p>
- 
+<p>Check out my projects below and share your thoughts—I'd love to hear your feedback 🙌</p>
