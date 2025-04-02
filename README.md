@@ -46,6 +46,7 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/-Kubernetes-2496ED?style=flat-square&logo=kubernetes&logoColor=white">
 </p>
 
 <p align="center">
