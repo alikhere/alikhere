@@ -50,10 +50,6 @@
   <img src="https://img.shields.io/badge/-Kubernetes-2496ED?style=flat-square&logo=kubernetes&logoColor=white">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alikhere&layout=compact&theme=radical">
-</p>
-
 <div align="center">
 
 ### 🌟 OSS Contributions
@@ -94,6 +90,5 @@
 </table>
 
 </div>
-
 
 <p>Check out my projects below and share your thoughts—I'd love to hear your feedback 🙌</p>
