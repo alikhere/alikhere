@@ -53,4 +53,47 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alikhere&layout=compact&theme=radical">
 </p>
+
+<div align="center">
+
+### 🌟 OSS Contributions
+
+<table>
+  <thead>
+    <tr>
+      <th>Organization</th>
+      <th>Repository</th>
+      <th>Pull Requests</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="3"><strong>Microcks</strong></td>
+      <td><a href="https://github.com/microcks/community">community</a></td>
+      <td><a href="https://github.com/microcks/community/pulls?q=is%3Apr+author%3Aalikhere">PRs</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/microcks/hub.microcks.io">hub.microcks.io</a></td>
+      <td><a href="https://github.com/microcks/hub.microcks.io/pulls?q=is%3Apr+author%3Aalikhere">PRs</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/microcks/microcks.io">microcks.io</a></td>
+      <td><a href="https://github.com/microcks/microcks.io/pulls?q=is%3Apr+author%3Aalikhere">PRs</a></td>
+    </tr>
+    <tr>
+      <td><strong>Kubestellar</strong></td>
+      <td><a href="https://github.com/kubestellar/ui">ui</a></td>
+      <td><a href="https://github.com/kubestellar/ui/pulls?q=is%3Apr+author%3Aalikhere">PRs</a></td>
+    </tr>
+    <tr>
+      <td><strong>FOSSASIA</strong></td>
+      <td><a href="https://github.com/fossasia/eventyay-tickets">eventyay-tickets</a></td>
+      <td><a href="https://github.com/fossasia/eventyay-tickets/pulls?q=is%3Apr+author%3Aalikhere">PRs</a></td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+
 <p>Check out my projects below and share your thoughts—I'd love to hear your feedback 🙌</p>
