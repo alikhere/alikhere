@@ -9,7 +9,7 @@
   <li>🌱 I’m diving into <span style="color: #FFA500;">React.js, Node.js, Express, and Next.js</span>.</li>
   <li>👯 I enjoy collaborating on <span style="color: #FFA500;">projects that transform creative ideas into impactful solutions</span>.</li>
   <li>💬 Ask me about <span style="color: #FFA500;">Open Source, Cloud Native and Movies</span>.</li>
-  <li>📫 How to reach me: Catch me on <span style="color: #FFA500;">Twitter</span>—my DMs are open!</li>
+  <li>📫 How to reach me: Catch me on <span style="color: #FFA500;">Twitter</span>—my DMs are open! dm me</li>
 </ul>
 
 <h3>Let's Connect</h3>
