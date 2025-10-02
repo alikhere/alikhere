@@ -1,4 +1,3 @@
-
 <h2>Hi there 👋, I'm Khurshid</h2>
 <p>A passionate <strong>Software Developer</strong> from India.</p>
 
