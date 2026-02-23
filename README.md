@@ -91,6 +91,11 @@
       <td><a href="https://github.com/fossasia/eventyay-tickets">eventyay-tickets</a></td>
       <td><a href="https://github.com/fossasia/eventyay-tickets/pulls?q=is%3Apr+author%3Aalikhere">PRs</a></td>
     </tr>
+    <tr>
+      <td><strong>Storacha</strong></td>
+      <td><a href="https://github.com/fossasia/eventyay-tickets">eventyay-tickets</a></td>
+      <td><a href="https://github.com/storacha/upload-service/pulls?q=is%3Apr+author%3Aalikhere">PRs</a></td>
+    </tr>
   </tbody>
 </table>
 
