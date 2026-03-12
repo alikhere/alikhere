@@ -93,7 +93,7 @@
     </tr>
     <tr>
       <td><strong>Storacha</strong></td>
-      <td><a href="https://github.com/storacha/upload-service">eventyay-tickets</a></td>
+      <td><a href="https://github.com/storacha/upload-service">upload-service</a></td>
       <td><a href="https://github.com/storacha/upload-service/pulls?q=is%3Apr+author%3Aalikhere">PRs</a></td>
     </tr>
   </tbody>
