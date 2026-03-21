@@ -1,4 +1,4 @@
-<h2>Hi there 👋, I'm Khurshid</h2>
+<h2>Hi there 👋, I'm Md Khurshid</h2>
 <p>A passionate <strong>Software Developer</strong> from India.</p>
 
 <!--<img align="right" src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="350" height="200" /> -->
