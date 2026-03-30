@@ -50,55 +50,17 @@
   <img src="https://img.shields.io/badge/-Kubernetes-2496ED?style=flat-square&logo=kubernetes&logoColor=white">
 </p>
 
-<div align="center">
-
 ### 🌟 OSS Contributions
 
-<table>
-  <thead>
-    <tr>
-      <th>Organization</th>
-      <th>Repository</th>
-      <th>Pull Requests</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Kubernetes</strong></td>
-      <td><a href="https://github.com/kubernetes/website">website</a></td>
-      <td><a href="https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Aalikhere">PRs</a></td>
-    </tr>
-    <tr>
-      <td rowspan="3"><strong>Microcks</strong></td>
-      <td><a href="https://github.com/microcks/community">community</a></td>
-      <td><a href="https://github.com/microcks/community/pulls?q=is%3Apr+author%3Aalikhere">PRs</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/microcks/hub.microcks.io">hub.microcks.io</a></td>
-      <td><a href="https://github.com/microcks/hub.microcks.io/pulls?q=is%3Apr+author%3Aalikhere">PRs</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/microcks/microcks.io">microcks.io</a></td>
-      <td><a href="https://github.com/microcks/microcks.io/pulls?q=is%3Apr+author%3Aalikhere">PRs</a></td>
-    </tr>
-    <tr>
-      <td><strong>Kubestellar</strong></td>
-      <td><a href="https://github.com/kubestellar/ui">ui</a></td>
-      <td><a href="https://github.com/kubestellar/ui/pulls?q=is%3Apr+author%3Aalikhere">PRs</a></td>
-    </tr>
-    <tr>
-      <td><strong>FOSSASIA</strong></td>
-      <td><a href="https://github.com/fossasia/eventyay-tickets">eventyay-tickets</a></td>
-      <td><a href="https://github.com/fossasia/eventyay-tickets/pulls?q=is%3Apr+author%3Aalikhere">PRs</a></td>
-    </tr>
-    <tr>
-      <td><strong>Storacha</strong></td>
-      <td><a href="https://github.com/storacha/upload-service">upload-service</a></td>
-      <td><a href="https://github.com/storacha/upload-service/pulls?q=is%3Apr+author%3Aalikhere">PRs</a></td>
-    </tr>
-  </tbody>
-</table>
-
-</div>
+| Organization | Repository | Pull Requests |
+|-------------|-----------|--------------|
+| **Kubernetes** | [website](https://github.com/kubernetes/website) | [PRs](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Aalikhere) |
+| **Kubestellar** | [ui](https://github.com/kubestellar/ui) | [PRs](https://github.com/kubestellar/ui/pulls?q=is%3Apr+author%3Aalikhere) |
+| **IPFS** | [ipfs-webui](https://github.com/ipfs/ipfs-webui) | [PRs](https://github.com/ipfs/ipfs-webui/pulls?q=is%3Apr+author%3Aalikhere) |
+| **Storacha** | [upload-service](https://github.com/storacha/upload-service) | [PRs](https://github.com/storacha/upload-service/pulls?q=is%3Apr+author%3Aalikhere) |
+|  | [console-toolkit](https://github.com/storacha/console-toolkit) | [PRs](https://github.com/storacha/console-toolkit/pulls?q=is%3Apr+author%3Aalikhere) |
+| **FOSSASIA** | [eventyay-tickets](https://github.com/fossasia/eventyay-tickets) | [PRs](https://github.com/fossasia/eventyay-tickets/pulls?q=is%3Apr+author%3Aalikhere) |
+| **Microcks** | [community](https://github.com/microcks/community) | [PRs](https://github.com/microcks/community/pulls?q=is%3Apr+author%3Aalikhere) |
+| **Kubeflow** | [kale](https://github.com/kubeflow/kale) | [PRs](https://github.com/kubeflow/kale/pulls?q=is%3Apr+author%3Aalikhere) |
 
 <p>Check out my projects below and share your thoughts—I'd love to hear your feedback 🙌</p>
